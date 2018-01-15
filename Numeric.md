@@ -110,4 +110,4 @@ Octal (base-8) representation was common in early computer systems.
 | 110    | 6
 | 111    | 7
 
-
+# Numeric/String Conversions
